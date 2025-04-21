@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141113734336",
+    "project_id": "voice-messange",
+    "storage_bucket": "voice-messange.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141113734336:android:4ce1b61e1fdbbfc477a925",
+        "android_client_info": {
+          "package_name": "com.example.voice_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYo6k-H6l9maUAcLAYLjsqCwyHGkoJWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

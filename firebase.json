@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"voice-messange","appId":"1:141113734336:android:4ce1b61e1fdbbfc477a925","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"voice-messange","configurations":{"android":"1:141113734336:android:4ce1b61e1fdbbfc477a925","ios":"1:141113734336:ios:42451ca219bbbb0377a925"}}}}}}
